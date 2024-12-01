@@ -1,0 +1,125 @@
+
+body{
+	
+	/*background-color: #ffe6cf ;*/
+	
+}
+
+	
+.texto table {
+		position: center;
+}
+
+
+
+.tabelaLateral table{
+	background-color: #b9fae4;
+	border-radius: 15px;
+	padding: 3px;
+}
+
+.tabelaLateral {
+	
+	background-color: azure ;
+	border-radius: 15px;
+	padding: 10px;	
+	
+}
+
+.info h1{
+	background-color: #4c9c7a;
+	border-radius: 15px;
+	padding: 3px;
+	border: 3px solid #4c9c7a ;
+}
+
+
+.conteudo p {
+	text-align: center;
+}
+
+.circulo{
+	
+	background-color: transparent;
+	
+	border-radius: 50%;
+	width:350px;
+	height:350px;
+	overflow: hidden;
+	position: relative;
+	
+}
+
+.nome {
+	position: center;
+}
+
+.circulo img{
+	
+	position: center;
+	bottom: 0;
+	width: 100%;
+	
+}
+
+.insta {
+	
+	
+	border-radius: 15px;
+	padding: 2px;
+	
+	
+}
+
+.tabela2 table{
+	background-color: #b9fae4;
+	border-radius: 15px;
+	padding: 3px;
+}
+
+
+.bluesky  {
+	
+	
+	border-radius: 15px;
+	padding: 2px;
+	
+	
+}
+.discord {
+	
+	
+	border-radius: 15px;
+	padding: 2px;
+	
+	
+}
+
+p{
+	text-align: justify;
+	font-size: 18px;
+	line-height: 1.5;
+
+}
+
+.container p{
+	text-align: center;
+
+}
+
+.coluna{
+	float: left;
+  	width: 33.33%;
+  	padding: 5px;
+}
+
+.container-img::after{
+	content: "";
+    display: table;
+    clear: both;
+
+}
+
+.rick a{
+	text-align: center;
+}
